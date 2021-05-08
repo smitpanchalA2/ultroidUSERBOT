@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="http://telegramfiles.com/v2/8893069/IMG_20210505_215211_382.jpg.html" alt="TeamUltroid Logo">
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
